@@ -177,3 +177,18 @@ p {
     transform: rotate(0);
   }
 }
+
+@media only screen and (max-width: 600px) {
+
+  .nav-link {
+    font-size: 1.4rem;
+    font-family: "Montserrat-Light";
+  }
+
+
+  body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+  
+}
